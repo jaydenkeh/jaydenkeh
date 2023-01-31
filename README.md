@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+   <h1>Hello, I'm Jayden! Thanks for popping by :relaxed:</h1>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jaydenkeh/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  <a href="mailto:zhaoxikeh@hotmail.com">
+  <img src="https://img.shields.io/badge/Email Me-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+</div>
 
 <!--
 **jaydenkeh/jaydenkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +29,3 @@
 
 ## 🤓 Currently Learning
 - TypeScript
-
-<sub>📫 Reach me on LinkedIn at www.linkedin.com/in/jaydenkeh/</sub>
