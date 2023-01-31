@@ -14,9 +14,11 @@
 **jaydenkeh/jaydenkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## ⚡ Technologies
-### Frontend <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/html5/html5-white-original-wordmark.svg"><img height="30" width="30" src="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/html5/html5-original-wordmark.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/css3/css3-white-original-wordmark.svg"><img height="30" width="30" src="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/css3/css3-original-wordmark.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/jquery/jquery-plain.svg"><img height="30" width="30" src="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/jquery/jquery-plain.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/react/react-original.svg"><img height="30" width="30" src="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/react/react-original.svg"></picture> 
-- **HTML** / **CSS** / **JavaScript** with ReactJS and JQuery libraries
+---
+
+## Technologies
+### Frontend Libraries & Frameworks:
+<img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/> <img src="https://img.shields.io/badge/React%20Bootstrap-critical?style=for-the-badge&logo=react-bootstrap&logoColor=white" alt="React Bootstrap Badge"/> <img src="https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery Badge"/> <img src="https://img.shields.io/badge/Material UI-success?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge"/> <img src="https://img.shields.io/badge/Axios-ff69b4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5 Badge"/> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3 Badge"/>
 
 ### Backend <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/mongodb/mongodb-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/mongodb/mongodb-original.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/express/express-white-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/express/express-original.svg"></picture>
 
@@ -26,6 +28,3 @@
 ### Languages <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/javascript/javascript-original.svg"><img height="30" width="30" src="https://raw.githubusercontent.com/llkyz/llkyz/main/icons/javascript/javascript-original.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/python/python-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/python/python-original.svg"></picture>
 
 ### Environments / Tools <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/vscode/vscode-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/vscode/vscode-original.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/nodejs/nodejs-plain.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/nodejs/nodejs-plain.svg"></picture>
-
-## 🤓 Currently Learning
-- TypeScript
