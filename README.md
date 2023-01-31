@@ -1,4 +1,5 @@
 <div id="header" align="center">
+   <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="500"/>
    <h1>Hello, I'm Jayden! Thanks for popping by :relaxed:</h1>
 </div>
 <div id="badges" align="center">
