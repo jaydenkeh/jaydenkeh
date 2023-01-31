@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="420"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="360"/>
    <h1>Hello, I'm Jayden! Thanks for popping by :relaxed:</h1>
 </div>
 <div id="badges" align="center">
