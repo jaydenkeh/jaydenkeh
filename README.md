@@ -46,5 +46,5 @@ Financial web app "Wealth Smart" enables users to simulate trades with the U.S s
 Tech Stack: HTML, CSS, TypeScript, React, Axios, Prisma, PostgreSQL, Express, Node, JWT
 
 [<strong>Recipes Origin</strong>](https://recipes-origin.vercel.app/)<br>
-Recipes Origin is a recipe search web app that allow users to find and save their favorite recipes, with ingredients, instructions, and nutritional information.
+Recipes Origin is a recipe search web app that allow users to find and save their favorite recipes, with ingredients, instructions, and nutritional information.<br>
 Tech Stack: HTML, CSS, JavaScript, React.JS, Axios, Node.JS, Material UI
