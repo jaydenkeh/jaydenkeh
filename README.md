@@ -42,7 +42,7 @@ With a strong focus on collaboration, I strive to build robust, scalable and use
 
 ## Check out my recent work!
 [<strong>Wealth Smart</strong>](https://github.com/jaydenkeh/WealthSmart)<br>
-Financial web app "Wealth Smart" enables users to simulate trades with the U.S stock market, keep track of profit & loss, and manage securities in a watchlist.<br>
+Full stack financial web app "Wealth Smart" enables users to simulate trades with the U.S stock market, keep track of profit & loss, and manage securities in a watchlist.<br>
 Tech Stack: HTML, CSS, TypeScript, React, Axios, Prisma, PostgreSQL, Express, Node, JWT
 
 [<strong>Recipes Origin</strong>](https://recipes-origin.vercel.app/)<br>
