@@ -1,5 +1,6 @@
 <div id="header" align="center">
    <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="360"/> -->
+<h2>Hello, I'm Jayden! Thanks for popping by :smiley:</h2>
 </div> 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jaydenkeh/">
@@ -15,8 +16,6 @@
 -->
 
 ---
-
-<h2>Hello, I'm Jayden! Thanks for popping by :relaxed:</h2>
 
 ## About Me
 A motivated Full Stack Developer with a background in business development, I enjoy piecing together practical and logical solutions to business problems. 
