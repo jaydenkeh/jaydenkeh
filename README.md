@@ -20,8 +20,6 @@
 ## About Me
 A motivated Full Stack Developer with a background in business development, I enjoy piecing together practical and logical solutions to business problems. 
 
-Currently in the process of transitioning my career to focus on my passion for technology and software development. 
-
 I'm excited to leverage my expertise to create innovative solutions and bring value to development projects. 
 
 With a strong focus on collaboration, I strive to build robust, scalable and user-friendly applications that meet the needs of clients and users.
